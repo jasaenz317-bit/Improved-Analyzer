@@ -89,4 +89,4 @@ Deploying to Streamlit Cloud
 1. Push this repo (including `README.md` and `requirements.txt`) to GitHub.
 2. On https://share.streamlit.io create a new app and point it at `src/dashboard.py`.
 
-If you want, I can also add a short example `Procfile` or CI workflow for automatic deploys.
+
