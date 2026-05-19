@@ -1,4 +1,5 @@
 Personal Finance Analyzer
+<img width="1763" height="844" alt="image" src="https://github.com/user-attachments/assets/106566fd-777e-43be-9fae-e230820324d9" />
 
 Quick start
 
